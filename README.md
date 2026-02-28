@@ -52,6 +52,11 @@ Drill-through: Enabled country-level sales analysis with drill-through capabilit
 
 Percentage of Continent: Table visuals showing each country's sales as a percentage of their respective continent's total, unaffected by country-level slicers.
 
+🎨 Design & Presentation
+UI/UX Design: The entire dashboard background and layout were custom-designed using Figma to ensure a professional, modern, and user-friendly interface.
+
+Presentation: Our project storytelling and presentation were crafted using Gamma AI to effectively communicate insights to stakeholders.
+
 📂 Repository Content
 
 Sales Analysis.pbix: The main Power BI project file on power bi service [https://app.powerbi.com/groups/me/reports/91bacdee-ec1c-4652-9495-53dfd8a7c4b5/2fc4780039f9e52d34d1?experience=power-bi]
